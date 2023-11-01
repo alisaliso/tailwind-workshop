@@ -3,6 +3,7 @@
 First, run the development server:
 
 ```bash
+pnpm install
 pnpm dev
 ```
 
@@ -21,11 +22,19 @@ color: #ffffff;
 
 - Add action styles
 
-![Button actions](image.png)
+<details>
+  <summary>Button actions example</summary>
+
+  ![Button actions](image.png)
+</details>
 
 - Add variants styles
 
-![Button variant](image-1.png)
+<details>
+  <summary>Button variants example</summary>
+
+  ![Button variant](image-1.png)
+</details>
 
 ## Learn More
 
